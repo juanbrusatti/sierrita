@@ -37,7 +37,7 @@ export function Footer() {
 
         <div className="border-t border-background/20 pt-6 text-center text-sm text-background/60">
           <p>
-            Landing creada por <span className="font-semibold text-background/80">DLAY</span>
+            Página creada por <span className="font-semibold text-background/80">DLAY</span>
           </p>
         </div>
       </div>
